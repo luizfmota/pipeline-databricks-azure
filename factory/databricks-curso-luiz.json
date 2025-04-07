@@ -1,0 +1,9 @@
+{
+	"name": "databricks-curso-luiz",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b1398ec0-cee4-4d75-b91b-a1080801cc26",
+		"tenantId": "8e80631c-8592-48db-a5a1-34391e58fd3d"
+	}
+}
